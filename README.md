@@ -1,6 +1,4 @@
 - 👋 Hi, I’m chris
-- 👀 I’m interested in coding & chess
-- 🌱 I’m currently learning python
 - 📫 How to reach me @BsnrCrs on twitter
 
 <!---
